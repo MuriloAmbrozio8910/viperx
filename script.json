@@ -2,10 +2,10 @@
   "ScriptHub":
   [
     {
-      "Nome": "aaa",
-      "Imagem": "",
-      "Descrição": "",
-      "Script": ""
+      "Nome": "Teste",
+      "Imagem": "https://cdn.discordapp.com/attachments/948287787977814088/951255521439154266/Viper_X_New_Logo_Com_fundo.png",
+      "Descrição": "Teste",
+      "Script": "print('eae');"
     }
   ]
 }
