@@ -1,11 +1,28 @@
 {
-  "ScriptHub":
-  [
+  "ScriptHub":[
     {
-      "Nome": "Teste",
-      "Imagem": "https://cdn.discordapp.com/attachments/948287787977814088/951255521439154266/Viper_X_New_Logo_Com_fundo.png",
-      "Desc": "abcdefg",
-      "Script": "print('eae');"
+      "Nome": "Infinite Yeild",
+      "Script": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source",
+      "Desc": "The best admin script, works in any game.",
+      "Imagem": "https://i.imgur.com/r2GS0wl.png"
+    },
+    {
+      "Nome": "Hydroxide",
+      "Script": "https://raw.githubusercontent.com/yFlameBR/Shiny/main/scripts/Hydroxide.lua",
+      "Desc": "Hydroxide is a pen-testing tool (RemoteSpy, etc...)",
+      "Imagem": "https://i.imgur.com/teaXH3K.png"
+    },
+    {
+      "Nome": "Dark Dex",
+      "Script": "https://raw.githubusercontent.com/yFlameBR/Shiny/main/scripts/Dex.lua",
+      "Desc": "Dark Dex is a game explorer script, that can be used to steal places and decompile scripts.",
+      "Imagem": "https://i.imgur.com/4MRHF98.png"
+    },
+    {
+      "Nome": "Owl Hub",
+      "Script": "https://raw.githubusercontent.com/yFlameBR/Shiny/main/scripts/owlhub.lua",
+      "Desc": "Universal Esp and Aimbot (Working in some games.)",
+      "Imagem": "https://i.imgur.com/LFDHpiD.jpg"
     }
-  ]
+    ]
 }
